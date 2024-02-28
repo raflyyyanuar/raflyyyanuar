@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raflyyyanuar
-- 👀 I’m interested in learning game development
-- 🌱 I’m currently learning C data structures and C#
-- 💞️ I’m looking to collaborate on beginner to intermediate C language problems
+- 👀 I’m interested in learning game and web development
+- 🌱 I’m currently exploring web technologies like Node and React
 - 📫 How to reach me: IG: raflyyyanuar
 
 <!---
