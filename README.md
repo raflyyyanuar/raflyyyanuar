@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @raflyyyanuar
-- 👀 I’m interested in learning game and web development
-- 🌱 I’m currently exploring web technologies like Node and React
-- 📫 How to reach me: IG: raflyyyanuar
+👋 Hi, I’m @raflyyyanuar
+
+Check my work:
+- 3D: https://www.instagram.com/boredraf/
+- Games: https://raflyyyanuar.itch.io/
+- Portfolio: https://raflyyanuar.wixsite.com/devlogs
 
 <!---
 raflyyyanuar/raflyyyanuar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
